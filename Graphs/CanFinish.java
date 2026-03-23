@@ -2,6 +2,7 @@ package Graphs;
 
 import java.util.*;
 
+// 207. Course Schedule
 public class CanFinish {
     static Set<Integer> set = new HashSet<>();
     static Map<Integer, List<Integer>> map = new HashMap<>();
