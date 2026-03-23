@@ -2,6 +2,7 @@ package Sliding;
 
 import java.util.*;
 
+// 567. Permutation in String
 public class PermutationString {
     public static void main(String[] args) {
         System.out.println(checkInclusion("ab", "eidbaooo"));
