@@ -8,7 +8,6 @@ class Twitter {
     HashMap<Integer, HashSet<Integer>> followsList = new HashMap<>();
 
     public Twitter() {
-
     }
 
     public void postTweet(int userId, int tweetId) {
