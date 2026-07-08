@@ -1,7 +1,6 @@
 package Heap;
 
 import java.util.Arrays;
-import java.util.PriorityQueue;
 
 public class Logger {
     public static void info(Object... args) {
